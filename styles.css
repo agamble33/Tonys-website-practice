@@ -1,0 +1,44 @@
+html { 
+  background: url(../TonyonaWebsite/background.jpg);
+
+  -no-repeat-center-center: fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+ .Container1 { text-align: center;
+
+    background-color: rgba(0,0,0,0,7);
+ 	color: white;
+ 	padding: 500px;
+ 	height: 300px;
+ 	width: : 300px;
+ 	margin: 0 auto;
+ 	font: bolder;
+ 	text-shadow: 6px 6px 6px #000000;
+
+p  {
+	 background-color: rgba(0,0,0,0,7);
+ 	color:white;
+ 	padding: 200px;
+ 	height: 300px;
+ 	width: : 300px;
+ 	margin: 0 auto;
+
+}
+h3 { text-align: center;
+	 background-color: rgba(0,0,0,0,7);
+ 	color:white;
+ 	padding: 500px;
+ 	height: 300px;
+ 	width: : 300px;
+ 	margin: 0 auto;
+
+ }
+
+
+ .container{
+ 
+ 	
+ }
